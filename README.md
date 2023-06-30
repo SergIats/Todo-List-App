@@ -1,5 +1,5 @@
 # ToDo List application
-<a href='https://sergiats.github.io/react_todo-app/'>DEMO LINK</a>
+<a href='https://sergiats.github.io/Todo-List-App/'>DEMO LINK</a>
 <p>What is a ToDo List? The definition is a simple one. It’s a list of tasks you need to complete or things that you want to do.</p>
 
 ![todoapp](./description/todoapp.gif)
